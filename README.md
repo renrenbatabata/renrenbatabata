@@ -6,10 +6,9 @@
 ![Blue Purple Cheeky Kawaii Manga Tutor Educational Twitter Header](https://github.com/renrenbatabata/renrenbatabata/assets/148751281/94d5a3e6-88e9-4943-ab24-0693835a7715)
 
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomo1227&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renrenbatabata&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=renrenbatabata&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
-</p>
+
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=renrenbatabata&theme=renren)](https://github-readme-streak-stats.herokuapp.com/?user=●●●&theme=★★★)
 
