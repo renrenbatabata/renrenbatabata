@@ -3,4 +3,4 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tomo1227&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
 </p>
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=●●●&theme=★★★)](https://github-readme-streak-stats.herokuapp.com/?user=●●●&theme=★★★)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=renrenbatabata&theme=renren)](https://github-readme-streak-stats.herokuapp.com/?user=●●●&theme=★★★)
